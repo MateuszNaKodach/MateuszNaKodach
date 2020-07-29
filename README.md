@@ -1,7 +1,7 @@
 ### Mateusz Nowak 👋
 
 <a href="https://www.linkedin.com/in/nowakmat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kontakt.mateusznowak@gmail.com)](mailto:contato.weltonf@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kontakt.mateusznowak@gmail.com)](mailto:kontakt.mateusznowak@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mateusz.nowak.7796/)](https://www.facebook.com/mateusz.nowak.7796/)
 <a href="https://www.https://www.instagram.com/zycienakodach.pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)](https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)
