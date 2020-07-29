@@ -9,6 +9,12 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=nowakprojects&show_icons=true)
 
 
+<br />
+
+<div><p>The projects I am currently working on: </p></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nowakprojects&repo=KtTimeTraveler)](https://github.com/nowakprojects/KtTimeTraveler)
+
 <!--
 **nowakprojects/nowakprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
