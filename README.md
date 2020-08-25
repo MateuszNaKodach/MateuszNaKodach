@@ -13,7 +13,7 @@
 
 <div><p>The projects I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nowakprojects&repo=KtTimeTraveler)](https://github.com/nowakprojects/KtTimeTraveler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nowakprojects&repo=kt-time-traveler)](https://github.com/nowakprojects/kt-time-traveler)
 
 <!--
 **nowakprojects/nowakprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
