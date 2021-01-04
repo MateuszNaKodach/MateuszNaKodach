@@ -1,4 +1,7 @@
-### Mateusz Nowak 👋 I ❤️ Kotlin & Domain-Driven Design & Event Sourcing
+### Hello, I'm Mateusz Nowak 👋 
+#### I ❤️ Kotlin & Domain-Driven Design & Event Sourcing
+
+Programming blog (in Polish 🇵🇱 ): [ZycieNaKodach.pl](https://zycienakodach.pl)
 
 <a href="https://www.linkedin.com/in/nowakmat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kontakt.mateusznowak@gmail.com)](mailto:kontakt.mateusznowak@gmail.com)
