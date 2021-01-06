@@ -10,6 +10,15 @@ Programming blog (in Polish 🇵🇱 ): [ZycieNaKodach.pl](https://zycienakodach
 <a href="https://www.https://www.instagram.com/zycienakodach.pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)](https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)
 
+On my profile you can find many repositories, which show evolution of my programming skills. 
+You may be scared also by some ugly projects from a long time ago (but this galaxy), but for me it's also valuable to show something like this, because it shows my progress.
+Below you can find some thoughts (mine or from others) which I composed for my everyday software developer manifesto.
+
+1. It doesn't matter how code on yours GitHub looks now. It's important how it was 2-3 years ago and what you have learned since then. This is the way to show that you have X years of experience - not 1 year repeated X times. ~ Me
+2. In programming, it doesn't matter what you can today, but what you will learn tomorrow. ~ Me
+3. Software development is a learning process. Working code is a side effect. ~ Alberto Brandolini in Introducing EventStorming 
+4. Do or do not. There is no try. ~ Master Yoda in Star Wars: Empire Strikes Back
+
 <!--
 **nowakprojects/nowakprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![github stats](https://github-readme-stats.vercel.app/api?username=nowakprojects&show_icons=true)
