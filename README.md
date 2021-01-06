@@ -12,7 +12,7 @@ Programming blog (in Polish 🇵🇱 ): [ZycieNaKodach.pl](https://zycienakodach
 
 On my profile you can find many repositories, which show evolution of my programming skills. 
 
-You may be scared by some ugly projects from a long time ago in this galaxy. Althoughm for me it's also valuable to show something like this, because it shows my progress.
+You may be scared by some ugly projects from a long time ago in this galaxy. Although for me it's also valuable to show something like this, because it shows my progress. 
 
 Below you can read some thoughts (mine or from others) which I composed for my everyday software developer manifesto.
 
