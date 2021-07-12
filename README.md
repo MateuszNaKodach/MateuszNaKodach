@@ -18,7 +18,7 @@ Below you can read some thoughts (mine or from others) which I composed for my e
 
 1. It doesn't matter how code on yours GitHub looks now. It's important how it was 2-3 years ago and what you have learned since then. This is the way to show that you have X years of experience - not 1 year repeated X times. ~ Me
 2. In programming, it doesn't matter what you can today, but what you will learn tomorrow. ~ Me
-3. Software development is a learning process. Working code is a side effect. ~ Alberto Brandolini in Introducing EventStorming 
+3. Software development is a learning process. Working code is a side effect. ~ Dan North - cited by Alberto Brandolini in Introducing EventStorming 
 4. Do or do not. There is no try. ~ Master Yoda in Star Wars: Empire Strikes Back
 5. The most important skills in programming... are programming language agnostic. For me it'd be Domain-Driven Design, Test-Driven Development, Design Patterns, SOLID, principles of OOP and functional programming and of course Event Sourcing. Those methods, apart from providing high quality code, could give a real business advantage over the competition. ~Me
 
