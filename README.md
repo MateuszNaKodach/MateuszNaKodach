@@ -1,5 +1,5 @@
 ### Hello, I'm Mateusz Nowak 👋 
-#### I ❤️ Kotlin & Domain-Driven Design & Event Sourcing
+#### I ❤️ Kotlin / TypeScript & Domain-Driven Design & Event Sourcing
 
 Programming blog (in Polish 🇵🇱 ): [ZycieNaKodach.pl](https://zycienakodach.pl)
 
