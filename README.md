@@ -5,7 +5,7 @@
 
 Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
 
-or on DEV Community (in English 🇬🇧): [https://dev.to/mateusznowak](https://dev.to/mateusznowak)
+or on DEV Community (in English 🇬🇧): [dev.to/mateusznowak](https://dev.to/mateusznowak)
 
 ----
 
