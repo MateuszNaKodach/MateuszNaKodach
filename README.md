@@ -1,9 +1,15 @@
 ### Hello, I'm Mateusz Nowak 👋 
-#### I ❤️ Kotlin / TypeScript & Domain-Driven Design & Event Sourcing
+#### I ❤️ Domain-Driven Design & Event Sourcing
+
+----
 
 Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
+
 or on DEV Community (in English 🇬🇧): [https://dev.to/mateusznowak](https://dev.to/mateusznowak)
 
+----
+
+#### Social Media
 <a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/MateuszNaKodach/)](https://twitter.com/MateuszNaKodach/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
@@ -11,11 +17,13 @@ or on DEV Community (in English 🇬🇧): [https://dev.to/mateusznowak](https:/
 <a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)](https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)
 
+----
+
 On my profile you can find many repositories, which show evolution of my programming skills. 
 
 You may be scared by some ugly projects from a long time ago in this galaxy. Although for me it's also valuable to show something like this, because it shows my progress. 
 It doesn't matter how code on yours GitHub looks now. It's important how it was 2-3 years ago and what you have learned since then. This is the way to show that you have X years of experience - not 1 year repeated X times.
-The most important skills in programming are programming language agnostic. For me it'd be Domain-Driven Design, Test-Driven Development, Design Patterns, SOLID, principles of OOP and functional programming and of course Event Sourcing. Those methods, apart from providing high quality code, could give a real business advantage over the competition.
+The most important skills in programming are programming language agnostic (I sue Kotlin / TypeScript / C#). For me it'd be Domain-Driven Design, Test-Driven Development, Design Patterns, SOLID, principles of OOP and functional programming and of course Event Sourcing. Those methods, apart from providing high quality code, could give a real business advantage over the competition.
 
 
 <!--
