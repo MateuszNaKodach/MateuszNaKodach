@@ -2,6 +2,7 @@
 #### I ❤️ Kotlin / TypeScript & Domain-Driven Design & Event Sourcing
 
 Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
+or on DEV Community (in English 🇬🇧): [https://dev.to/mateusznowak](https://dev.to/mateusznowak)
 
 <a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/MateuszNaKodach/)](https://twitter.com/MateuszNaKodach/)
