@@ -1,29 +1,21 @@
 ![LinkedIn](https://media.licdn.com/dms/image/D4D16AQEFC1qNXyHNMA/profile-displaybackgroundimage-shrink_350_1400/0/1714859618598?e=1720051200&v=beta&t=x1k0gS-THJ9Iiy9jO7g2n9Pno_ZAD9BI4MaB8qqh52U)
-<a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
+[NaKodach.pl - blog in Polish 🇵🇱 ](https://nakodach.pl) 
+| <a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+| <a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+| [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
+| [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
+| [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
+| [Dev.to - blog in English 🇬🇧](https://dev.to/mateusznowak)
 
-### Hello, I'm Mateusz Nowak 👋 
-#### I ❤️ Domain-Driven Design & Event Sourcing
-
-----
-
-Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
-
-or on DEV Community (in English 🇬🇧): [dev.to/mateusznowak](https://dev.to/mateusznowak)
-
+<!--
 ----
 
 On my profile you can find many repositories, which show evolution of my programming skills. 
 
 You may be scared by some ugly projects from a long time ago in this galaxy. Although for me it's also valuable to show something like this, because it shows my progress. 
 It doesn't matter how code on yours GitHub looks now. It's important how it was 2-3 years ago and what you have learned since then. This is the way to show that you have X years of experience - not 1 year repeated X times.
-The most important skills in programming are programming language agnostic (I sue Kotlin / TypeScript / C#). For me it'd be Domain-Driven Design, Test-Driven Development, Design Patterns, SOLID, principles of OOP and functional programming and of course Event Sourcing. Those methods, apart from providing high quality code, could give a real business advantage over the competition.
+The most important skills in programming are programming language agnostic (I use Kotlin / TypeScript / C#). For me it'd be Domain-Driven Design, Test-Driven Development, Design Patterns, SOLID, principles of OOP and functional programming and of course Event Sourcing. Those methods, apart from providing high quality code, could give a real business advantage over the competition.
 
-
-<!--
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)](https://stackoverflow.com/users/6715769/mateusz-nowak?tab=profile)
 **nowakprojects/nowakprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![github stats](https://github-readme-stats.vercel.app/api?username=nowakprojects&show_icons=true)
