@@ -1,6 +1,8 @@
 ### Hello, I'm Mateusz Nowak 👋 
 #### I ❤️ Domain-Driven Design & Event Sourcing
 
+![LinkedIn](https://media.licdn.com/dms/image/D4D16AQEFC1qNXyHNMA/profile-displaybackgroundimage-shrink_350_1400/0/1714859618598?e=1720051200&v=beta&t=x1k0gS-THJ9Iiy9jO7g2n9Pno_ZAD9BI4MaB8qqh52U)
+
 ----
 
 Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
