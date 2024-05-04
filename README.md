@@ -1,4 +1,9 @@
 ![LinkedIn](https://media.licdn.com/dms/image/D4D16AQEFC1qNXyHNMA/profile-displaybackgroundimage-shrink_350_1400/0/1714859618598?e=1720051200&v=beta&t=x1k0gS-THJ9Iiy9jO7g2n9Pno_ZAD9BI4MaB8qqh52U)
+<a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
 
 ### Hello, I'm Mateusz Nowak 👋 
 #### I ❤️ Domain-Driven Design & Event Sourcing
@@ -8,15 +13,6 @@
 Programming blog (in Polish 🇵🇱 ): [NaKodach.pl](https://nakodach.pl)
 
 or on DEV Community (in English 🇬🇧): [dev.to/mateusznowak](https://dev.to/mateusznowak)
-
-----
-
-#### Social Media
-<a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
 
 ----
 
