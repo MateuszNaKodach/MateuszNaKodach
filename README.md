@@ -1,13 +1,13 @@
 [![LinkedIn](https://media.licdn.com/dms/image/D4D16AQFxTOb-Hb0n5Q/profile-displaybackgroundimage-shrink_350_1400/0/1714939207854?e=1720656000&v=beta&t=PNOwhwiOIhvKJL1xxWLLWMk5S00zTwvsyOg95RkDuBY)](https://nakodach.pl)
-[NaKodach.pl - blog po Polsku 🇵🇱 ](https://nakodach.pl) 
-| <a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-| <a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-| [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
-| [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
-| [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
-| [Dev.to - blog in English 🇬🇧](https://dev.to/mateusznowak)
+<a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mateusznowak)](https://dev.to/mateusznowak)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
 
-**Newsletter about DDD and EventSourcing:** [Polski](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
+**✍️ Software Craftsmanship Blog:** [NaKodach.pl / Polski](https://nakodach.pl) | [Dev.to / English](https://dev.to/mateusznowak)
+
+**📩 Newsletter about DDD and EventSourcing:** [Polski](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
 
 <!--
 ----
