@@ -1,4 +1,4 @@
-![LinkedIn](https://media.licdn.com/dms/image/D4D16AQEFC1qNXyHNMA/profile-displaybackgroundimage-shrink_350_1400/0/1714859618598?e=1720051200&v=beta&t=x1k0gS-THJ9Iiy9jO7g2n9Pno_ZAD9BI4MaB8qqh52U)
+![LinkedIn](https://media.licdn.com/dms/image/D4D16AQFxTOb-Hb0n5Q/profile-displaybackgroundimage-shrink_350_1400/0/1714939207854?e=1720656000&v=beta&t=PNOwhwiOIhvKJL1xxWLLWMk5S00zTwvsyOg95RkDuBY)
 [NaKodach.pl - blog in Polish 🇵🇱 ](https://nakodach.pl) 
 | <a href="https://www.linkedin.com/in/MateuszNaKodach/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 | <a href="https://www.https://www.instagram.com/nakodach_pl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
