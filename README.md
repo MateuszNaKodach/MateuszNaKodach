@@ -7,7 +7,7 @@
 | [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
 | [Dev.to - blog in English 🇬🇧](https://dev.to/mateusznowak)
 
-**Newsletter about DDD and EventSourcing:** 
+**Newsletter about DDD and EventSourcing:** [Polish](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
 
 <!--
 ----
