@@ -15,7 +15,7 @@
 ### 💼 Hire me
 If you'd like to hire me for Domain-Driven Design and/or Event Sourcing projects, I'm available to work with:
 Kotlin, Java, C#, Ruby, and TypeScript.
-Please reach out to me on LinkedIn [linkedin.com/in/mateusznakodach/](https://www.linkedin.com/in/mateusznakodach/).
+Please reach me out on LinkedIn [linkedin.com/in/mateusznakodach/](https://www.linkedin.com/in/mateusznakodach/).
 
 <!--
 ----
