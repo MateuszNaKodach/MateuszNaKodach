@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz@nakodach.pl)](mailto:mateusz@nakodach.pl)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nakodach/)](https://www.facebook.com/nakodach/)
 
-**📩 Blogpost series about DDD, Event Modeling and EventSourcing:** [READ HERE / English](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7208819112179908609)
+**📩 Blogpost series about DDD, Event Modeling and EventSourcing:** [READ HERE / English](https://dddheroes.com)
 - Let's explore Domain-Driven Design practices proven in real projects, through analogies to the world of Heroes of Might & Magic III.
 
 **✍️ Software Craftsmanship Blog:** [NaKodach.pl / Polski](https://nakodach.pl)
