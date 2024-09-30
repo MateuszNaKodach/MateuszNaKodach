@@ -7,7 +7,10 @@
 
 **✍️ Software Craftsmanship Blog:** [NaKodach.pl / Polski](https://nakodach.pl) | [Dev.to / English](https://dev.to/mateusznowak)
 
-**📩 Newsletter about DDD and EventSourcing:** [Polski](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
+**📩 Blogpost series about DDD, Event Modeling and EventSourcing:** [READ HERE](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7208819112179908609)
+- Let's explore Domain-Driven Design practices proven in real projects, through analogies to the world of Heroes of Might & Magic III.
+
+----
 
 ### 💼 Hire me
 If you'd like to hire me for Domain-Driven Design and/or Event Sourcing projects, I'm available to work with:
@@ -16,6 +19,9 @@ Please reach out to me on LinkedIn [linkedin.com/in/mateusznakodach/](https://ww
 
 <!--
 ----
+
+**📩 Newsletter about DDD and EventSourcing:** [Polski](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
+
 
 On my profile you can find many repositories, which show evolution of my programming skills. 
 
