@@ -9,9 +9,10 @@
 
 **📩 Newsletter about DDD and EventSourcing:** [Polski](https://nakodach.pl/lista-mailingowa/) | [English](https://subscribepage.io/mateusznowak)
 
-
-[![CvNaKodach.pl](https://github.com/MateuszNaKodach/MateuszNaKodach/assets/18637116/b9a31771-446a-4744-9533-6b67d5c3b0e0)](https://app.easycart.pl/checkout/nakodach/cv-na-kodach-poradnik?ref=github_mateusznakodach)
-
+### 💼 Hire me
+If you'd like to hire me for Domain-Driven Design and/or Event Sourcing projects, I'm available to work with:
+Kotlin, Java, C#, Ruby, and TypeScript.
+Please reach out to me on LinkedIn [linkedin.com/in/mateusznakodach/](https://www.linkedin.com/in/mateusznakodach/).
 
 <!--
 ----
