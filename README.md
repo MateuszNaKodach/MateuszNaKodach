@@ -13,11 +13,11 @@
 ----
 
 ### 💼 Hire me
-✨ If you're looking to build a team with a Domain-Driven Design/Event Sourcing mindset, I’m ready to join or lead the transition! Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/mateusznakodach/).
+✨ If you're looking for someone to join a team with a Domain-Driven Design/Event Sourcing mindset (or to help transform a team in this direction), I'm ready for such an adventure.
 
-💻 I enjoy working with Kotlin, Java, C#, Ruby, and TypeScript in product-focused teams, but I'm always open to discuss any exciting opportunities (e.g. consulting). 
+💻 I enjoy working with Kotlin, Java, C#, Ruby, and TypeScript in product-focused teams, but I'm always open to discuss any exciting opportunities (e.g. consulting).
 
-👋 Let's chat!
+👋 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mateusznakodach/?locale=en_US).
 
 <!--
 ----
